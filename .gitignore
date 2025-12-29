@@ -1,0 +1,12 @@
+# Ignore IDE files
+.vscode
+
+# Ignore Python environments
+*env
+
+# Ignore caches
+.pytest_cache
+__pycache__
+
+# Ignore generated files
+test.*
